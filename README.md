@@ -2,5 +2,4 @@
 - 👀 I’m interested in Web Designing and Microsoft Technologies.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on a interesting project on .NET Development.
-- 📫 How to reach me  Email : pavi.12.pavi@gmail.com
--                      Phone : 9345441263
+- 📫 How to reach me  Email : pavi.12.pavi@gmail.com Phone : 9345441263
